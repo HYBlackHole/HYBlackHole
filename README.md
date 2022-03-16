@@ -15,6 +15,8 @@
 - Actually reading : "Le monde d'hier"
 - Play basketball
 - And a lot of others…
+
+“不经一番寒彻骨，怎得梅花扑鼻香”
 <!---
 HYBlackHole/HYBlackHole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
