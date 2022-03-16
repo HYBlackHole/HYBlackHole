@@ -1,5 +1,7 @@
+### Presentation
+
 - 👋 Hi, I’m HY_Black_Hole
-- 👀 I’m interested in coding games on scratch
+- 👀 I’m interested in coding games on Scratch
 - 🌱 I’m currently learning HTML and CSS
 
 <!---
